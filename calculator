@@ -47,11 +47,11 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #54a093;
+  background-image: url(https://png.pngtree.com/background/20211215/original/pngtree-cartoon-satellite-ruler-calculator-linear-education-background-picture-image_1458755.jpg);
   font-family: Cursive;
 }
 .calculator {
-  width: 200px;
+  width: 400px;
   padding-bottom: 15px;
   border-radius: 7px;
   background-color: #000;
