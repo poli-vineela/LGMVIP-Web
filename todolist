@@ -114,7 +114,7 @@ for (var v = 0 ; v < todos.length ; v++){
 
 body{
     height: 100%;
-    background-color: #c27cc2;
+    background-color: #b89535;
     box-sizing: border-box;
 }
 
